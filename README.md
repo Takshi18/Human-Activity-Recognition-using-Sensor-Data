@@ -7,7 +7,7 @@ This repository presents a comparison of various deep learning models for Human 
 ## Datasets
 
 ### UCI-HAR Dataset
-- Dataset Link: [UCI-HAR Dataset](https://archive.ics.uci.edu/dataset/364/smartphone+dataset+for+human+activity+recognition+har+in+ambient+assisted+living+aal)
+- Dataset Link: [(https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 - Description: The UCI-HAR dataset captures smartphone sensor signals (accelerometer and gyroscope) during daily activities. Data was preprocessed to extract relevant features.
 - Features: Various time and frequency domain signals, such as tBodyAcc-XYZ, tGravityAcc-XYZ, fBodyAcc-XYZ, etc.
 - Labels: Encoded labels representing activities like WALKING, WALKING_UPSTAIRS, etc.
